@@ -43,3 +43,6 @@ streamlit run app.py
 **📧 abdelilah.benchine3@gmail.com** <br>
 **🌐 github.com/BENCHINE11**
 
+## 📄 Licence
+
+Ce projet est sous licence **MIT** — voir le fichier [LICENSE](./LICENSE) pour plus de détails.
