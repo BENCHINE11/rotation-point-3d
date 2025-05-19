@@ -38,10 +38,14 @@ streamlit run app.py
 
 - 🌐 Streamlit
 
+---
+
 ## 👤 Auteur
 **BENCHINE Abdelilah** <br>
 **📧 abdelilah.benchine3@gmail.com** <br>
 **🌐 github.com/BENCHINE11**
+
+---
 
 ## 📄 Licence
 
